@@ -1,4 +1,4 @@
-;;; flymake-prototool.el -- prototool backend for flymake -*- lexical-binding: t; -*-
+;;; flymake-prototool.el --- prototool backend for flymake -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2020 Damien Merenne <dam@cosinux.org>
 
